@@ -1,0 +1,202 @@
+[
+  {
+    "query": "What is the primary objective of the Capital Works Management Framework?\n A) To reduce the number of contractors in public works\n B) To ensure cost certainty, value for money, and efficient project delivery\n C) To eliminate all risks in construction projects\n D) To standardize design across all public works",
+    "expected": "B"
+  },
+  {
+    "query": "Under the new Public Works Contracts, who is responsible for design in a Traditional Contract?\n A) The Contractor\n B) The Employer's design team\n C) Nominated subcontractors\n D) The Employer's Representative",
+    "expected": "B"
+  },
+  {
+    "query": "Which of the following is NOT a key change introduced by the new Public Works Contracts?\n A) Elimination of provisional sums and quantities\n B) Introduction of Programme Contingency\n C) Mandatory use of nominated subcontractors\n D) Fixed-price lump sum contracts",
+    "expected": "C"
+  },
+  {
+    "query": "What is the purpose of Programme Contingency?\n A) To cover delays caused by the Contractor's inefficiency\n B) To account for delays and costs arising from Compensation Events\n C) To extend the contract period indefinitely\n D) To replace liquidated damages",
+    "expected": "B"
+  },
+  {
+    "query": "In the new contracts, what replaces the role of nominated subcontractors?\n A) Domestic subcontractors\n B) Specialists\n C) Consultants\n D) Employer's Personnel",
+    "expected": "B"
+  },
+  {
+    "query": "Which clause in the Schedule Part 1 allows the Employer to allocate risk for unforeseeable ground conditions?\n A) Section K, Item 19\n B) Section D, Item 5\n C) Section L, Item 12\n D) Section M, Item 8",
+    "expected": "A"
+  },
+  {
+    "query": "What is the default retention percentage specified in the Schedule Part 1?\n A) 5%\n B) 10%\n C) 15%\n D) 20%",
+    "expected": "B"
+  },
+  {
+    "query": "Under the Design and Build Contract, who is responsible for ensuring the Works are fit for purpose?\n A) The Employer\n B) The Contractor\n C) The Employer's Representative\n D) The Specialist",
+    "expected": "B"
+  },
+  {
+    "query": "Which of the following is a Compensation Event under the Traditional Contract?\n A) Force majeure\n B) Unforeseeable ground conditions (if allocated to the Employer)\n C) Contractor's inability to secure labor\n D) Normal weather delays",
+    "expected": "B"
+  },
+  {
+    "query": "What is the maximum period for which the Contractor must maintain Professional Indemnity insurance after Substantial Completion?\n A) 2 years\n B) 6 years\n C) 10 years\n D) Indefinitely",
+    "expected": "B"
+  },
+  {
+    "query": "Which document defines the Contractor's daily delay costs for Compensation Events?\n A) Works Requirements\n B) Schedule Part 2, Section E\n C) Pricing Document\n D) Letter of Acceptance",
+    "expected": "B"
+  },
+  {
+    "query": "What is the consequence if the Contractor fails to provide a revised programme upon request?\n A) Termination of the Contract\n B) Withholding of 15% of payments\n C) Automatic extension of time\n D) Reduction in retention",
+    "expected": "B"
+  },
+  {
+    "query": "Under which clause can the Employer reject the entire Works due to serious defects?\n A) Clause 8.5.5\n B) Clause 9.2\n C) Clause 10.6\n D) Clause 12.1",
+    "expected": "A"
+  },
+  {
+    "query": "What is the primary purpose of the Letter of Acceptance?\n A) To confirm the Contractor's suitability\n B) To form a binding contract\n C) To approve the Works Proposals\n D) To issue the Defects Certificate",
+    "expected": "B"
+  },
+  {
+    "query": "Which of the following is NOT an Employer's Risk under Clause 3.1?\n A) War or invasion\n B) Terrorism (if excluded from insurance)\n C) Contractor's negligence\n D) Pressure waves caused by aircraft",
+    "expected": "C"
+  },
+  {
+    "query": "What is the default appointing body for conciliation if none is specified in the Schedule?\n A) Chartered Institute of Arbitrators Irish Branch\n B) Royal Institute of the Architects of Ireland\n C) Engineers Ireland\n D) Law Society of Ireland",
+    "expected": "A"
+  },
+  {
+    "query": "Under Clause 5.3, what must the Contractor ensure regarding workpersons' wages?\n A) Wages are paid monthly in arrears\n B) Wages are never more than a month in arrears\n C) Wages are paid quarterly\n D) Wages are held in escrow",
+    "expected": "B"
+  },
+  {
+    "query": "Which clause allows the Employer to deduct estimated unpaid wages from the Contractor?\n A) Clause 5.3.6\n B) Clause 11.4.1\n C) Clause 12.2\n D) Clause 8.5.3",
+    "expected": "A"
+  },
+  {
+    "query": "What is the Contractor's obligation under Clause 7.8 if archaeological artefacts are found?\n A) Remove them immediately\n B) Preserve them and notify the Employer\n C) Sell them to cover project costs\n D) Ignore them unless they delay the Works",
+    "expected": "B"
+  },
+  {
+    "query": "Which clause governs the Contractor's responsibility for Site security?\n A) Clause 7.2\n B) Clause 4.13\n C) Clause 8.3\n D) Clause 9.1",
+    "expected": "A"
+  },
+  {
+    "query": "What is the primary purpose of the Works Requirements in a Design and Build Contract?\n A) To provide a fully detailed design\n B) To specify performance or output criteria\n C) To list all subcontractors\n D) To define the Contractor's insurances",
+    "expected": "B"
+  },
+  {
+    "query": "Under Clause 4.5, when must the ER issue a Change Order?\n A) When the Contractor requests it\n B) When it is physically impossible to comply with the Works Requirements\n C) When the Employer approves it\n D) When the Works are delayed",
+    "expected": "B"
+  },
+  {
+    "query": "What is the time limit for the ER to object to a Contractor's submission under Clause 4.7?\n A) 5 working days\n B) 10 working days\n C) 15 working days\n D) 20 working days",
+    "expected": "B"
+  },
+  {
+    "query": "Which clause allows the Employer to terminate the Contract if the Starting Date does not occur?\n A) Clause 12.1.1\n B) Clause 9.1.1\n C) Clause 4.11\n D) Clause 7.1",
+    "expected": "A"
+  },
+  {
+    "query": "What is the Contractor's liability for design by Specialists?\n A) No liability\n B) Limited to defects in workmanship\n C) Full liability as if the design were their own\n D) Liability only if the Specialist is insolvent",
+    "expected": "C"
+  },
+  {
+    "query": "Which clause requires the Contractor to provide a Quality Assurance system?\n A) Clause 8.2\n B) Clause 4.9\n C) Clause 6.4\n D) Clause 10.3",
+    "expected": "A"
+  },
+  {
+    "query": "What is the Contractor's obligation under Clause 7.10 on completion?\n A) To leave the Site in a proper condition\n B) To remove all temporary works\n C) To provide as-built drawings\n D) To pay outstanding wages",
+    "expected": "A"
+  },
+  {
+    "query": "Under Clause 11.5, when must the ER issue the penultimate payment certificate?\n A) Within 3 months of the final statement\n B) Within 5 months of Substantial Completion\n C) Within 2 months of the Defects Certificate\n D) Within 1 month of the Contractor's application",
+    "expected": "A"
+  },
+  {
+    "query": "Which clause governs the Contractor's right to suspend work for non-payment?\n A) Clause 12.3\n B) Clause 9.2\n C) Clause 4.5\n D) Clause 11.4",
+    "expected": "A"
+  },
+  {
+    "query": "What is the primary purpose of the Pricing Document?\n A) To evaluate tenders and value change orders\n B) To define the Works Requirements\n C) To list all Specialists\n D) To specify health and safety rules",
+    "expected": "A"
+  },
+  {
+    "query": "Under Clause 3.7, when is Professional Indemnity insurance required?\n A) Only for Design and Build Contracts\n B) Only if the Contractor is insolvent\n C) If specified in the Schedule Part 1D\n D) Only for projects over $10 million",
+    "expected": "C"
+  },
+  {
+    "query": "What is the Contractor's obligation under Clause 4.16 regarding confidentiality?\n A) To keep all project details confidential indefinitely\n B) To protect commercially sensitive information for 5 years\n C) To share all pricing with subcontractors\n D) To disclose all records to the public",
+    "expected": "B"
+  },
+  {
+    "query": "Which clause allows the ER to extend the Defects Period?\n A) Clause 8.6.2\n B) Clause 9.5\n C) Clause 10.5\n D) Clause 12.6",
+    "expected": "A"
+  },
+  {
+    "query": "What is the Contractor's responsibility under Clause 8.1 in a Traditional Contract?\n A) Fitness for purpose of the entire Works\n B) Fitness for purpose of Works Items they select\n C) Compliance with the Employer's design only\n D) No responsibility for design",
+    "expected": "B"
+  },
+  {
+    "query": "Under Clause 10.8, which Price Variation option is the default?\n A) PV1 (Proven Cost Method)\n B) PV2 (Formula Fluctuations Method)\n C) Hyperinflation adjustment\n D) No price variation allowed",
+    "expected": "A"
+  },
+  {
+    "query": "What is the Employer's entitlement under Clause 8.5.3 if the Contractor fails to rectify defects?\n A) To withhold retention\n B) To have the work done by others at the Contractor's cost\n C) To terminate the Contract\n D) To reduce the Contract Sum",
+    "expected": "B"
+  },
+  {
+    "query": "Which clause governs the Contractor's obligation to provide collateral warranties?\n A) Clause 5.5\n B) Clause 6.4\n C) Clause 11.4\n D) Clause 12.2",
+    "expected": "A"
+  },
+  {
+    "query": "What is the purpose of the Defects Certificate?\n A) To release the Contractor from all liability\n B) To confirm all defects have been rectified\n C) To approve the final payment\n D) To terminate the Contract",
+    "expected": "B"
+  },
+  {
+    "query": "Under Clause 4.3, who appoints the Employer's Representative?\n A) The Contractor\n B) The Employer\n C) The Conciliator\n D) The Specialist",
+    "expected": "B"
+  },
+  {
+    "query": "Which clause governs the Contractor's right to claim for unforeseen utilities delays?\n A) Clause 10.3\n B) Schedule Part 1K, Item 21\n C) Clause 7.9\n D) Clause 9.4",
+    "expected": "B"
+  },
+  {
+    "query": "What is the Contractor's obligation under Clause 7.7 regarding setting out?\n A) To rely solely on the Works Requirements\n B) To check information before setting out\n C) To delegate setting out to a Specialist\n D) To ignore minor errors",
+    "expected": "B"
+  },
+  {
+    "query": "Under Clause 3.6, who is covered by the Contractor's Public Liability insurance?\n A) Only the Contractor\n B) The Contractor and Employer as co-insured\n C) Only the Employer\n D) Only Specialist subcontractors",
+    "expected": "B"
+  },
+  {
+    "query": "Which clause allows the ER to instruct the Contractor to search for defects?\n A) Clause 8.5\n B) Clause 9.2\n C) Clause 10.6\n D) Clause 12.1",
+    "expected": "A"
+  },
+  {
+    "query": "What is the Contractor's obligation under Clause 4.9 regarding the programme?\n A) To submit a detailed programme before the Starting Date\n B) To update the programme only if requested\n C) To ignore delays in the programme\n D) To delegate programming to the ER",
+    "expected": "A"
+  },
+  {
+    "query": "Under Clause 11.2, what is the default percentage for valuing unfixed Works Items in interim payments?\n A) 50%\n B) 75%\n C) 90%\n D) 100%",
+    "expected": "C"
+  },
+  {
+    "query": "Which clause governs the Contractor's responsibility for existing property damage?\n A) Clause 3.8 (if stated in the Schedule)\n B) Clause 7.2\n C) Clause 8.1\n D) Clause 10.5",
+    "expected": "A"
+  },
+  {
+    "query": "What is the Contractor's obligation under Clause 4.14 regarding communications?\n A) To use only written letters\n B) To interpret communications purposefully\n C) To ignore emails\n D) To delegate communications to the ER",
+    "expected": "B"
+  },
+  {
+    "query": "Under Clause 12.6, what must the ER determine within 10 working days of termination?\n A) The final account\n B) The termination value\n C) The Defects Certificate\n D) The retention release",
+    "expected": "B"
+  },
+  {
+    "query": "Which clause allows the Employer to require random checks on wage records?\n A) Clause 5.3.3A (if stated in the Schedule)\n B) Clause 11.4\n C) Clause 8.5\n D) Clause 4.11",
+    "expected": "A"
+  },
+  {
+    "query": "What is the primary purpose of the Agreement document?\n A) To list all subcontractors\n B) To confirm the Contract Sum and parties\n C) To define the Works Requirements\n D) To issue the Letter of Acceptance",
+    "expected": "B"
+  }
+]

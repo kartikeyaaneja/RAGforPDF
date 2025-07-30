@@ -1,0 +1,102 @@
+[
+  {
+    "query": "What are the key objectives of the new Public Works Contracts introduced by the Department of Finance?",
+    "expected": "The new Public Works Contracts aim to achieve greater cost certainty, value for money, and efficient project delivery by introducing lump-sum, fixed-price contracts with clear risk allocation. They replace older forms that lacked precision, ensuring better project outcomes through standardized documentation, proactive risk management, and streamlined dispute resolution mechanisms."
+  },
+  {
+    "query": "How does the Capital Works Management Framework (CWMF) integrate with the new Public Works Contracts?",
+    "expected": "The CWMF provides a structured methodology for public capital projects, aligning procurement, design, and construction phases with the new contracts. It ensures consistency in risk management, cost control, and project delivery, while the contracts operationalize these principles through enforceable terms, such as fixed pricing and defined roles for the Employer’s Representative."
+  },
+  {
+    "query": "What distinguishes the Traditional Contracts from the Design and Build Contracts under the new framework?",
+    "expected": "Traditional Contracts place design responsibility on the Employer’s consultants, requiring comprehensive pre-tender design documentation. In contrast, Design and Build Contracts transfer design risk to the Contractor, who must deliver works meeting performance-based specifications. The latter is suited for projects where innovation or speed is prioritized, while the former ensures Employer control over design details."
+  },
+  {
+    "query": "How does the new contract structure address risk allocation compared to older forms?",
+    "expected": "The new contracts explicitly allocate risks through the Schedule (Part 1K), listing Delay and Compensation Events. Unlike older forms, risks like ground conditions or archaeology are pre-assigned, reducing disputes. Contractors must price these risks upfront, fostering transparency and accountability."
+  },
+  {
+    "query": "What is the significance of the Programme Contingency concept in the new contracts?",
+    "expected": "Programme Contingency requires Contractors to embed buffers for delays caused by Compensation Events within the contract period and sum. This ensures that minor disruptions are absorbed without claims, promoting project stability while setting thresholds beyond which the Employer bears additional costs."
+  },
+  {
+    "query": "How do the new contracts handle unforeseen ground conditions, and what factors influence risk allocation?",
+    "expected": "Unforeseeable ground conditions (Schedule Part 1K, Item 19) may be allocated to the Contractor if site investigations are thorough. The Employer must provide factual reports, enabling Contractors to assess risks. Poor data shifts risk back to the Employer, emphasizing the need for robust pre-tender investigations."
+  },
+  {
+    "query": "What role does the Employer’s Representative (ER) play in contract administration?",
+    "expected": "The ER acts as the contract administrator, issuing instructions, certifying payments, and resolving disputes. Their powers can be limited (e.g., cap on Change Order values), but they ensure adherence to the Works Requirements and manage interfaces between the Employer and Contractor."
+  },
+  {
+    "query": "How are Delay Events and Compensation Events differentiated in the Schedule?",
+    "expected": "Delay Events (e.g., weather, strikes) grant time extensions but no cost compensation unless specified. Compensation Events (e.g., Employer-caused delays) entitle Contractors to both time and money. The Schedule’s Part 1K allows Employers to toggle certain events as Compensation Events based on risk appetite."
+  },
+  {
+    "query": "Why are provisional sums and provisional quantities excluded from the new contracts?",
+    "expected": "Their exclusion enforces completeness of design pre-tender, eliminating ambiguity and claims for unforeseen work. Contractors must price all elements upfront, aligning with the fixed-price philosophy and reducing adversarial post-contract negotiations."
+  },
+  {
+    "query": "How does the contract address archaeological discoveries on-site?",
+    "expected": "Item 18 in Schedule Part 1K treats unforeseeable archaeological finds as Delay/Compensation Events if selected. Employers must conduct preliminary assessments to justify risk transfer. If not, the Employer bears costs for delays or preservation efforts."
+  },
+  {
+    "query": "What are the implications of the Contractor’s fitness-for-purpose obligations in Design and Build Contracts?",
+    "expected": "The Contractor warrants that the Works meet their intended purpose per the Works Requirements, extending liability beyond reasonable skill and care. This stricter standard contrasts with Traditional Contracts, where design liability is limited to negligence unless otherwise specified."
+  },
+  {
+    "query": "How do the contracts ensure compliance with health and safety regulations?",
+    "expected": "Clause 2.5 mandates adherence to the Safety, Health and Welfare at Work Act 2005. Contractors must appoint a Project Supervisor (Construction Stage) and integrate safety plans into the Works Proposals, with penalties for non-compliance."
+  },
+  {
+    "query": "What is the purpose of the Price Variation Clause (PV1/PV2), and how does it operate?",
+    "expected": "PV1 (proven cost) and PV2 (formula fluctuations) adjust the Contract Sum for inflation post a fixed-price period (e.g., 31 months). PV2 uses CSO indices for materials/labor, with thresholds (e.g., 10% for normal inflation, 50% for hyperinflation) to limit Employer exposure."
+  },
+  {
+    "query": "How are Specialists treated differently from nominated subcontractors in older contracts?",
+    "expected": "Specialists are “domestic” subcontractors for whom the Contractor assumes full design and performance liability. Unlike nominated subcontractors, the Contractor cannot disclaim responsibility for their work, streamlining accountability."
+  },
+  {
+    "query": "What are the key requirements for Contractor insurances under Clause 3?",
+    "expected": "Contractors must maintain Works insurance (covering reinstatement costs), Public Liability, and Employer’s Liability insurance. Professional Indemnity insurance is required if design responsibilities exist, with minimum limits set in the Schedule."
+  },
+  {
+    "query": "How does the contract handle early completion by the Contractor?",
+    "expected": "The ER must issue a Certificate of Substantial Completion upon early completion unless the Schedule opts out (Part 1H). Early completion may reduce liquidated damages but requires Employer readiness to take over the Works."
+  },
+  {
+    "query": "What are the consequences of defective work under Clause 8?",
+    "expected": "Defects discovered pre-Defects Certificate must be rectified by the Contractor at their cost. For major defects, the ER can reject entire Works (Clause 8.5.5), requiring repayment of all sums paid, though this is rare and hinges on the defect’s materiality."
+  },
+  {
+    "query": "How does the contract address concurrent delays by both parties?",
+    "expected": "The contract lacks explicit concurrency provisions, but Delay Events (Employer-caused) and Contractor-caused delays are assessed separately. Compensation Events may be offset by Contractor delays, with the ER determining net entitlements."
+  },
+  {
+    "query": "What is the significance of the “Notice and Time for Employer’s Obligations” clause (4.11)?",
+    "expected": "It mandates Contractor notices (10 working days) for Employer-supplied items/instructions, tying obligations to programmed dates. Missed deadlines may trigger Compensation Events, emphasizing proactive communication."
+  },
+  {
+    "query": "How are disputes resolved under the new contracts?",
+    "expected": "Clause 13 mandates conciliation (Model Form 18) followed by arbitration if unresolved. The Schedule names appointing bodies (e.g., Engineers Ireland), ensuring expert-led resolution and avoiding litigation."
+  },
+  {
+    "query": "Why is the Letter of Acceptance critical in contract formation?",
+    "expected": "Its issuance creates the Contract Date, triggering timelines (e.g., Starting Date within 20 days). Post-tender clarifications become binding if incorporated, requiring careful drafting to avoid procurement challenges."
+  },
+  {
+    "query": "How does the contract address subcontractor default or insolvency?",
+    "expected": "The Contractor must replace defaulting Specialists, subject to ER approval (Clause 5.4.6). Insolvency allows termination but requires proof of replacement competence, ensuring project continuity."
+  },
+  {
+    "query": "What are the key differences in risk allocation between Building and Civil Engineering Contracts?",
+    "expected": "Civil Engineering Contracts include trial operation clauses and stricter utility risk allocation (e.g., Item 21). Building Contracts focus on fit-for-purpose obligations for materials, reflecting sector-specific risks."
+  },
+  {
+    "query": "How does the contract enforce pay and conditions compliance (Clause 5.3)?",
+    "expected": "Contractors must certify adherence to employment laws with each payment application. Random checks (if Schedule permits) allow audits, with payment withholding for non-compliance, aligning with government labor policies."
+  },
+  {
+    "query": "What is the role of the Works Requirements in Design and Build Contracts?",
+    "expected": "They define performance criteria or output specifications, enabling Contractor innovation. Unlike Traditional Contracts, they avoid prescriptive designs, though Employers may include “specimen designs” to guide tenders."
+  }
+]

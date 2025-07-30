@@ -1,0 +1,251 @@
+query,expected,predicted-llama3.2,predicted-llama3.2-letter,predicted-deepseek-llm,predicted-deepseek-llm-letter,predicted-gpt-3.5-turbo,predicted-gpt-3.5-turbo-letter
+"What is the primary objective of the Capital Works Management Framework?
+ A) To reduce the number of contractors in public works
+ B) To ensure cost certainty, value for money, and efficient project delivery
+ C) To eliminate all risks in construction projects
+ D) To standardize design across all public works",B,B,B,"B) To ensure cost certainty, value for money, and more efficient project delivery.",B,B,B
+"Under the new Public Works Contracts, who is responsible for design in a Traditional Contract?
+ A) The Contractor
+ B) The Employer's design team
+ C) Nominated subcontractors
+ D) The Employer's Representative",B,A,A,A) The Contractor,A,A,A
+"Which of the following is NOT a key change introduced by the new Public Works Contracts?
+ A) Elimination of provisional sums and quantities
+ B) Introduction of Programme Contingency
+ C) Mandatory use of nominated subcontractors
+ D) Fixed-price lump sum contracts",C,C,C,Answer: C) Mandatory use of nominated subcontractors,C,B,B
+"What is the purpose of Programme Contingency?
+ A) To cover delays caused by the Contractor's inefficiency
+ B) To account for delays and costs arising from Compensation Events
+ C) To extend the contract period indefinitely
+ D) To replace liquidated damages",B,B,B,B,B,B,B
+"In the new contracts, what replaces the role of nominated subcontractors?
+ A) Domestic subcontractors
+ B) Specialists
+ C) Consultants
+ D) Employer's Personnel",B,B,B,B) Specialists,B,B,B
+"Which clause in the Schedule Part 1 allows the Employer to allocate risk for unforeseeable ground conditions?
+ A) Section K, Item 19
+ B) Section D, Item 5
+ C) Section L, Item 12
+ D) Section M, Item 8",A,A,A,"A) Section K, Item 19",A,A,A
+"What is the default retention percentage specified in the Schedule Part 1?
+ A) 5%
+ B) 10%
+ C) 15%
+ D) 20%",B,A),A,B,B,B,B
+"Under the Design and Build Contract, who is responsible for ensuring the Works are fit for purpose?
+ A) The Employer
+ B) The Contractor
+ C) The Employer's Representative
+ D) The Specialist",B,B,B,B) The Contractor,B,B,B
+"Which of the following is a Compensation Event under the Traditional Contract?
+ A) Force majeure
+ B) Unforeseeable ground conditions (if allocated to the Employer)
+ C) Contractor's inability to secure labor
+ D) Normal weather delays",B,A,A,B) Unforeseeable ground conditions (if allocated to the Employer) is a Compensation Event under the Traditional Contract.,B,B,B
+"What is the maximum period for which the Contractor must maintain Professional Indemnity insurance after Substantial Completion?
+ A) 2 years
+ B) 6 years
+ C) 10 years
+ D) Indefinitely",B,B,B,B) 6 years,B,B,B
+"Which document defines the Contractor's daily delay costs for Compensation Events?
+ A) Works Requirements
+ B) Schedule Part 2, Section E
+ C) Pricing Document
+ D) Letter of Acceptance",B,B,B,"B) Schedule Part 2, Section E",B,B,B
+"What is the consequence if the Contractor fails to provide a revised programme upon request?
+ A) Termination of the Contract
+ B) Withholding of 15% of payments
+ C) Automatic extension of time
+ D) Reduction in retention",B,B,B,B) Withholding of 15% of payments,B,B,B
+"Under which clause can the Employer reject the entire Works due to serious defects?
+ A) Clause 8.5.5
+ B) Clause 9.2
+ C) Clause 10.6
+ D) Clause 12.1",A,A,A,A) Clause 8.5.5,A,A,A
+"What is the primary purpose of the Letter of Acceptance?
+ A) To confirm the Contractor's suitability
+ B) To form a binding contract
+ C) To approve the Works Proposals
+ D) To issue the Defects Certificate",B,B,B,B) To form a binding contract,B,B,B
+"Which of the following is NOT an Employer's Risk under Clause 3.1?
+ A) War or invasion
+ B) Terrorism (if excluded from insurance)
+ C) Contractor's negligence
+ D) Pressure waves caused by aircraft",C,A,A,B) Terrorism (if excluded from insurance),B,B,B
+"What is the default appointing body for conciliation if none is specified in the Schedule?
+ A) Chartered Institute of Arbitrators Irish Branch
+ B) Royal Institute of the Architects of Ireland
+ C) Engineers Ireland
+ D) Law Society of Ireland",A,B,B,B) Royal Institute of the Architects of Ireland,B,B,B
+"Under Clause 5.3, what must the Contractor ensure regarding workpersons' wages?
+ A) Wages are paid monthly in arrears
+ B) Wages are never more than a month in arrears
+ C) Wages are paid quarterly
+ D) Wages are held in escrow",B,B,B,B) Wages are never more than a month in arrears,B,B,B
+"Which clause allows the Employer to deduct estimated unpaid wages from the Contractor?
+ A) Clause 5.3.6
+ B) Clause 11.4.1
+ C) Clause 12.2
+ D) Clause 8.5.3",A,B,B,B) Clause 11.4.1,B,B,B
+"What is the Contractor's obligation under Clause 7.8 if archaeological artefacts are found?
+ A) Remove them immediately
+ B) Preserve them and notify the Employer
+ C) Sell them to cover project costs
+ D) Ignore them unless they delay the Works",B,B,B,B,B,B,B
+"Which clause governs the Contractor's responsibility for Site security?
+ A) Clause 7.2
+ B) Clause 4.13
+ C) Clause 8.3
+ D) Clause 9.1",A,A,A,A) Clause 7.2,A,A,A
+"What is the primary purpose of the Works Requirements in a Design and Build Contract?
+ A) To provide a fully detailed design
+ B) To specify performance or output criteria
+ C) To list all subcontractors
+ D) To define the Contractor's insurances",B,B,B,B) To specify performance or output criteria,B,B,B
+"Under Clause 4.5, when must the ER issue a Change Order?
+ A) When the Contractor requests it
+ B) When it is physically impossible to comply with the Works Requirements
+ C) When the Employer approves it
+ D) When the Works are delayed",B,B,B,"B) When it is physically impossible to comply with the Works Requirements or if it is necessary in his opinion, for the completion of the Works.",B,B,B
+"What is the time limit for the ER to object to a Contractor's submission under Clause 4.7?
+ A) 5 working days
+ B) 10 working days
+ C) 15 working days
+ D) 20 working days",B,D,D,B) 10 working days,B,B,B
+"Which clause allows the Employer to terminate the Contract if the Starting Date does not occur?
+ A) Clause 12.1.1
+ B) Clause 9.1.1
+ C) Clause 4.11
+ D) Clause 7.1",A,D,D,B) Clause 9.1.1,B,A,A
+"What is the Contractor's liability for design by Specialists?
+ A) No liability
+ B) Limited to defects in workmanship
+ C) Full liability as if the design were their own
+ D) Liability only if the Specialist is insolvent",C,C,C,C) Full liability as if the design were their own,C,C,C
+"Which clause requires the Contractor to provide a Quality Assurance system?
+ A) Clause 8.2
+ B) Clause 4.9
+ C) Clause 6.4
+ D) Clause 10.3",A,A,A,A) Clause 8.2,A,A,A
+"What is the Contractor's obligation under Clause 7.10 on completion?
+ A) To leave the Site in a proper condition
+ B) To remove all temporary works
+ C) To provide as-built drawings
+ D) To pay outstanding wages",A,A,A,A) To leave the Site in a proper condition,A,A,A
+"Under Clause 11.5, when must the ER issue the penultimate payment certificate?
+ A) Within 3 months of the final statement
+ B) Within 5 months of Substantial Completion
+ C) Within 2 months of the Defects Certificate
+ D) Within 1 month of the Contractor's application",A,A,A,A) Within 3 months of the final statement,A,B,B
+"Which clause governs the Contractor's right to suspend work for non-payment?
+ A) Clause 12.3
+ B) Clause 9.2
+ C) Clause 4.5
+ D) Clause 11.4",A,B,B,B) Clause 9.2,B,A,A
+"What is the primary purpose of the Pricing Document?
+ A) To evaluate tenders and value change orders
+ B) To define the Works Requirements
+ C) To list all Specialists
+ D) To specify health and safety rules",A,A,A,A) To evaluate tenders and value change orders,A,A,A
+"Under Clause 3.7, when is Professional Indemnity insurance required?
+ A) Only for Design and Build Contracts
+ B) Only if the Contractor is insolvent
+ C) If specified in the Schedule Part 1D
+ D) Only for projects over $10 million",C,C,C,C) If specified in the Schedule Part 1D,C,C,C
+"What is the Contractor's obligation under Clause 4.16 regarding confidentiality?
+ A) To keep all project details confidential indefinitely
+ B) To protect commercially sensitive information for 5 years
+ C) To share all pricing with subcontractors
+ D) To disclose all records to the public",B,B,B,B) To protect commercially sensitive information for 5 years,B,B,B
+"Which clause allows the ER to extend the Defects Period?
+ A) Clause 8.6.2
+ B) Clause 9.5
+ C) Clause 10.5
+ D) Clause 12.6",A,A,A,A) Clause 8.6.2,A,A,A
+"What is the Contractor's responsibility under Clause 8.1 in a Traditional Contract?
+ A) Fitness for purpose of the entire Works
+ B) Fitness for purpose of Works Items they select
+ C) Compliance with the Employer's design only
+ D) No responsibility for design",B,B,B,B) Fitness for purpose of Works Items they select,B,B,B
+"Under Clause 10.8, which Price Variation option is the default?
+ A) PV1 (Proven Cost Method)
+ B) PV2 (Formula Fluctuations Method)
+ C) Hyperinflation adjustment
+ D) No price variation allowed",A,A,A,A) PV1 (Proven Cost Method),A,A,A
+"What is the Employer's entitlement under Clause 8.5.3 if the Contractor fails to rectify defects?
+ A) To withhold retention
+ B) To have the work done by others at the Contractor's cost
+ C) To terminate the Contract
+ D) To reduce the Contract Sum",B,B,B,B) To have the work done by others at the Contractor's cost,B,B,B
+"Which clause governs the Contractor's obligation to provide collateral warranties?
+ A) Clause 5.5
+ B) Clause 6.4
+ C) Clause 11.4
+ D) Clause 12.2",A,A,A,C) Clause 11.4,C,A,A
+"What is the purpose of the Defects Certificate?
+ A) To release the Contractor from all liability
+ B) To confirm all defects have been rectified
+ C) To approve the final payment
+ D) To terminate the Contract",B,A),A,B,B,B,B
+"Under Clause 4.3, who appoints the Employer's Representative?
+ A) The Contractor
+ B) The Employer
+ C) The Conciliator
+ D) The Specialist",B,B,B,B) The Employer,B,B,B
+"Which clause governs the Contractor's right to claim for unforeseen utilities delays?
+ A) Clause 10.3
+ B) Schedule Part 1K, Item 21
+ C) Clause 7.9
+ D) Clause 9.4",B,A,A,D) Clause 9.4,D,A,A
+"What is the Contractor's obligation under Clause 7.7 regarding setting out?
+ A) To rely solely on the Works Requirements
+ B) To check information before setting out
+ C) To delegate setting out to a Specialist
+ D) To ignore minor errors",B,B,B,B) To check information before setting out,B,B,B
+"Under Clause 3.6, who is covered by the Contractor's Public Liability insurance?
+ A) Only the Contractor
+ B) The Contractor and Employer as co-insured
+ C) Only the Employer
+ D) Only Specialist subcontractors",B,B,B,B) The Contractor and Employer as co-insured,B,B,B
+"Which clause allows the ER to instruct the Contractor to search for defects?
+ A) Clause 8.5
+ B) Clause 9.2
+ C) Clause 10.6
+ D) Clause 12.1",A,A,A,A) Clause 8.5,A,A,A
+"What is the Contractor's obligation under Clause 4.9 regarding the programme?
+ A) To submit a detailed programme before the Starting Date
+ B) To update the programme only if requested
+ C) To ignore delays in the programme
+ D) To delegate programming to the ER",A,A,A,A) To submit a detailed programme before the Starting Date,A,A,A
+"Under Clause 11.2, what is the default percentage for valuing unfixed Works Items in interim payments?
+ A) 50%
+ B) 75%
+ C) 90%
+ D) 100%",C,C,C,C) 90%,C,C,C
+"Which clause governs the Contractor's responsibility for existing property damage?
+ A) Clause 3.8 (if stated in the Schedule)
+ B) Clause 7.2
+ C) Clause 8.1
+ D) Clause 10.5",A,A,A,A) Clause 3.8 (if stated in the Schedule),A,A,A
+"What is the Contractor's obligation under Clause 4.14 regarding communications?
+ A) To use only written letters
+ B) To interpret communications purposefully
+ C) To ignore emails
+ D) To delegate communications to the ER",B,B,B,B) To interpret communications purposefully,B,B,B
+"Under Clause 12.6, what must the ER determine within 10 working days of termination?
+ A) The final account
+ B) The termination value
+ C) The Defects Certificate
+ D) The retention release",B,B,B,B) The termination sum,B,A,A
+"Which clause allows the Employer to require random checks on wage records?
+ A) Clause 5.3.3A (if stated in the Schedule)
+ B) Clause 11.4
+ C) Clause 8.5
+ D) Clause 4.11",A,A,A,A) Clause 5.3.3A (if stated in the Schedule),A,A,A
+"What is the primary purpose of the Agreement document?
+ A) To list all subcontractors
+ B) To confirm the Contract Sum and parties
+ C) To define the Works Requirements
+ D) To issue the Letter of Acceptance",B,B,B,B) To confirm the Contract Sum and parties,B,B,B
